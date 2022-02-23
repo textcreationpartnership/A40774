@@ -1,0 +1,149 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Faithful relation of the most remarkable transactions which have happened at Tangjer since the Moors have lately made their attacques upon the forts and fortifications of that famous garrison : likewise the strength and good posture of defence it remains now in ...</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A40774</idno>
+            <idno type="STC">Wing F281</idno>
+            <idno type="STC">ESTC R31495</idno>
+            <idno type="EEBO-CITATION">12026838</idno>
+            <idno type="OCLC">ocm 12026838</idno>
+            <idno type="VID">52645</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A40774)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 52645)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1009:38)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Faithful relation of the most remarkable transactions which have happened at Tangjer since the Moors have lately made their attacques upon the forts and fortifications of that famous garrison : likewise the strength and good posture of defence it remains now in ...</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1681]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint suggested by Wing.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Tangier (Morocco) --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:52645:1"/>
+            <!-- PDF PAGE 60 -->
+            <head>A Faithful RELATION OF THE Moſt remarkable Tranſactions which have happened AT TANGJER; Since the <hi>Moors</hi> have lately made their Attacques upon the Forts and Fortifications of that Famous Garriſon, LIKEWISE The Strength and good poſture of Defence it remains now in.</head>
+            <argument>
+               <p>With an Account of the Trenches, Lines and works they have already drawn in order to their beſieging ſeveral of the ſaid Forts ſtrongly Guarded by the Engliſh, and the advantagious ſucceſs the Engliſh have obtained over thoſe Infidels, in a late Fight between them; burning and demoliſhing their works, beating them out of their Trenches, killing them and purſuing them even to their Camp.</p>
+            </argument>
+            <p>ENgliſh Vallour has ſpread it ſelf into the corners of the yet known World, ſo dread in Arms have Brittains Worthies ever been, that the amazed Earth has often trem<g ref="char:EOLhyphen"/>bled at their proueſs, whileſt they have with ſmall numbers made the now haughty Nations bow and yield unto their Conqueſt in tears of blood our Anger mourned, and felt our juſt revenge; then can we fear proud <hi>Aff<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>i<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ks</hi> threats upon our famous Garri<g ref="char:EOLhyphen"/>ſon well Mann'd? Or fearful <hi>Moors</hi> though ods of numbers preſs? whilſt ſuch brave Heroes, fraught with highproov'd En<g ref="char:EOLhyphen"/>gliſh
+<pb n="2" facs="tcp:52645:2"/>
+               <!-- PDF PAGE 61 -->
+Souls ſo nobly defend their charges againſt thoſe barbarous Infidels, whoſe ſlaughtered Corps ſo oft hath ſtrewed the neigh<g ref="char:EOLhyphen"/>bouring Plains, in their ſeveral but unſuccesful Attempts, yet be<g ref="char:EOLhyphen"/>ing obſtinate end wilful in their own deſtruction, will take no warning, but by their frequent Attacks expoſe themſelves as ſubjects to the Engliſh Vallour to whet upon, and thereby to ſhine more bright.</p>
+            <p>But ſeeing at this time thoſe barbarous Moors beſiege that fa<g ref="char:EOLhyphen"/>mous engliſh Garriſon of <hi>Tangier,</hi> the honour of our Nation, lying and maintaining its bounds and large dependances in <hi>Affrica</hi> with but a handful of Men in compariſon, againſt the populous and powerful Nations that border upon its Territories, I ſhall give the Reader an impartial Account of moſt of the noated tranſactions that have happened there ſince the beginning of the now Siege. The Moors under the command of the <hi>Alcade</hi> of <hi>Alcaſar</hi> their Captain-General, in their laſt years Aſſault upon our well-mann'd Forts being ſhamefully repulſed with great Slaughter as well as loſs of Amunition and vaſt expence, killed in the very breach themſelves had made, ſo lamentably as can be imagined, in the chance of War were forced to retreat in confu<g ref="char:EOLhyphen"/>ſion to the Town of <hi>Alcazar,</hi> and being purſued, many of them fled even unto <hi>Morocco,</hi> their chief City; of which ſhameful de<g ref="char:EOLhyphen"/>feat, their King or Governour being advertiſed, ſent for the <hi>Al<g ref="char:EOLhyphen"/>cade</hi> in great wrath, charged him to regain the Reputation he had loſt, by drawing up his Forces once more againſt this famous Gar<g ref="char:EOLhyphen"/>riſon of <hi>Tangiers.</hi> Upon which, a Body of about 8000 Men lay hovering about the Walls of <hi>Alcazar,</hi> till Orders were gi<g ref="char:EOLhyphen"/>ven for their breaking the Ground, in order to which, about the middle of March laſt they began to draw a Line between the Town and <hi>Charles</hi> and <hi>Henrietta</hi> Forts, and there intrench<g ref="char:EOLhyphen"/>ing a great number of Foot, and ſome Horſe, had ſet their Pio<g ref="char:EOLhyphen"/>neers to undermine the ſaid Forts in order to the blowing them up, but the Cannon and ſmall ſhot playing upon them from all ſides, ſo furiouſly that they proceeded but very ſlowly in their Enterprize, many of them being dayly killed as they endeavour to widen their Trenches, and over and above, the Forts being well mann'd and Victualled ſufficiently for ſix Months, in <hi>Charls</hi> Fort are about one hundred and fifty Men, commanded by Cap<g ref="char:EOLhyphen"/>tain <hi>St. Johns,</hi> and Captain <hi>Trelawney;</hi> both perſons of great Courage and reſolution and <hi>Henrietta</hi> Fort againſt which they
+<pb n="3" facs="tcp:52645:2"/>
+               <!-- PDF PAGE 61 -->
+bend their greateſt Force, Lieutenant <hi>Wilſon</hi> with about an hun<g ref="char:EOLhyphen"/>dred men furniſhed with all manner of Ammunition for a brave defence, upon this latter Fort, about 5 or 6 hundred <hi>Moors</hi> were commanded to make an Attack, their main Body lying about half a League diſtance; they came on very reſolutely and brought with them long pieces of Timber; which they placed againſt the Walls of the ſaid Fort, and brought Fagots, Boards and other pieces of Wood to pile upon them, that ſo under the ſhelter of them they might undermine, and blow up the Wall of the ſaid <hi>Henrietta</hi> Fort, which being perceived by the Lieutenant he gave order to ply them with Hand-Granadoes, the which was accor<g ref="char:EOLhyphen"/>dingly put in Execution with great ſucceſs, killing and wound<g ref="char:EOLhyphen"/>ing ſeveral of them, whileſt the great Guns from the other bo<gap reason="illegible" extent="2+ letters">
+                  <desc>••…</desc>
+               </gap> played upon them, and beat in their Works upon them, and di<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> great Execution; yet ſheltered by darkneſs, they all that night continued the Aſſault, but when morning appeared, they found the place too hot for them, and that their purpoſe would no<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> take effect, nor force ſtand them in ſtead againſt Engliſh-Vall<g ref="char:EOLhyphen"/>our, ſo leaving many dead upon the place they retreated in much confuſion and diſorder, our Cannon and ſmall ſhot ſtill playing upon them, that for haſte they left all their combuſtible <gap reason="illegible" extent="4+ letters">
+                  <desc>••••…</desc>
+               </gap>er behind them, to ſet which on Fire, Lieutenant <hi>Wilſon</hi> cauſed to be let down five men in Ropes, who effected the ſame, and were drawn up again without any hurt or dammage, after the Moors were retired, Lieutenant <hi>Wilſon</hi> to ſhew them how little he fear<g ref="char:EOLhyphen"/>ed their force cauſed two Moors Heads to be cut off and fixing them upon Poles, and placed them publickly upon the Walls in the ſight of the Mooriſh Camp, which all of that Nation hold for the greateſt indignity that can be put upon them, becauſe ac<g ref="char:EOLunhyphen"/>cording to their Mahometan ſuperſtition, they hold that when they die, their Bodies immediately are tranſlated into <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aradice<g ref="char:punc">▪</g> but if they are diſmembred, they can in no wiſe enter, ſo blinded are they by that prepoſterous Doctrine, but to our purpoſe, ſin<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> this Attack the Moors have again advanced their Lives, and as it is ſuppoſed recruited, they have drawn a Trench between <hi>Charles</hi>
+               <g ref="char:punc">▪</g> Fort and the other part, and made their lines of Communicati<g ref="char:EOLhyphen"/>on, yet our Men have made ſeveral Sallies, and done great Exe<g ref="char:EOLhyphen"/>cution upon them, filling up ſome of their Trenches, and taking ſome Priſoners; they have of late brought a great number of Boards to cover their works, which are as 'tis ſuppoſed to ſhelter
+<pb n="4" facs="tcp:52645:3"/>
+               <!-- PDF PAGE 62 -->
+them from the exceſſive heat of the Sun and do proceed with promiſe to themſelves of better ſuc<g ref="char:EOLhyphen"/>ceſs than formerly; but there being about four hundred Soldiers arrived from <hi>Ireland,</hi> this Garri<g ref="char:EOLhyphen"/>ſon is in ſo good a poſture of defence that we fear not what the aſſailants can do againſt us, beſides we expect new Recruits from <hi>England,</hi> and having all Proviſion Plenty, it is conjectured that after they can no ways prevail, they will quit the Siege and retire as they have often done, and not expoſe their Lives to hazard upon ſuch impoſſibilities, by rea<g ref="char:EOLhyphen"/>ſon there is almoſt every week ſeveral Engliſh Men of War and Marchants lying in the Mould which will readily ſupply us with Men and Arms if occaſion require, ſo that we are able to make a conſiderable Body of Men, and if the Portugals who firſt took the piece could maintain it with half the number we have now in Garriſon againſt the Mooriſh Armies under the Command of their ſe<g ref="char:EOLhyphen"/>veral Kings, then it is not to be feared through the aſſiſtance of the Almighty, but we shall as bravely defend it and atchieve as great if not greater ex<g ref="char:EOLhyphen"/>ploits for the honour of our Country and the far fam'd name of true English Vallour.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
